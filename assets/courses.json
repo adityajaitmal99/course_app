@@ -1,0 +1,86 @@
+[
+{
+"imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/machine-learning-banner-2.png",
+"title": "Machine Learning",
+"author": "Alice Johnson",
+"rating": 4.6,
+"ratingCount": 150,
+"price": 339.99,
+"isBestseller": true
+},
+{
+"imageUrl": "https://www.excelptp.com/wp-content/uploads/2023/01/ui-ux-banner-img2.jpg",
+"title": "UI/UX Design",
+"author": "Michael Brown",
+"rating": 4.3,
+"ratingCount": 90,
+"price": 1999.99
+},
+{
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjsce6vfvyolD7sUOHQ2KuhAsGHySuYOs5Q&s",
+"title": "Blockchain Technology",
+"author": "Sarah Lee",
+"rating": 4.8,
+"ratingCount": 110,
+"price": 599.99,
+"isBestseller": true
+},
+{
+"imageUrl": "https://5.imimg.com/data5/SELLER/Default/2023/5/306116346/AC/PE/FP/83806056/digital-marketing-course.jpg",
+"title": "Digital Marketing",
+"author": "David Clark",
+"rating": 4.2,
+"ratingCount": 70,
+"price": 2400.99
+},
+{
+"imageUrl": "https://www.filepicker.io/api/file/4C6yPDywSUeWYLyg1h9G",
+"title": "React Native",
+"author": "Laura Miller",
+"rating": 4.4,
+"ratingCount": 130,
+"price": 3499.99
+},
+{
+"imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpRVeslsv-Go4pZCHLiy8iqeiURbMlIzPoaA&s",
+"title": "Database Management",
+"author": "Robert Wilson",
+"rating": 4.5,
+"ratingCount": 95,
+"price": 449.99,
+"isBestseller": true
+},
+{
+"imageUrl": "https://iirfranking.com/courses/wp-content/uploads/2022/07/Cyber-Security.jpeg",
+"title": "Cybersecurity",
+"author": "Karen Evans",
+"rating": 4.7,
+"ratingCount": 140,
+"price": 5499.99
+},
+{
+"imageUrl": "https://www.classcentral.com/report/wp-content/uploads/2024/01/bcg_game_development_banner.png",
+"title": "Game Development",
+"author": "James Turner",
+"rating": 4.3,
+"ratingCount": 80,
+"price": 2999.99
+},
+{
+"imageUrl": "https://i.ytimg.com/vi/2LaAJq1lB1Q/maxresdefault.jpg",
+"title": "Cloud Computing",
+"author": "Patricia Harris",
+"rating": 4.6,
+"ratingCount": 100,
+"price": 490.99,
+"isBestseller": true
+},
+{
+"imageUrl": "https://slaconsultantsgurgaon.in/wp_files/wp-content/uploads_gurgaon/2018/10/Mobile-Application-Training-Course-in-Gurgaon.png",
+"title": "Mobile App Development",
+"author": "John Adams",
+"rating": 4.4,
+"ratingCount": 115,
+"price": 3900.99
+}
+]
