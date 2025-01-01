@@ -251,7 +251,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   controller: emailController,
                   keyboardType: TextInputType.emailAddress,
                   decoration: InputDecoration(
-                    labelText: 'Email',
+                    labelText: 'Email:',
                     labelStyle: const TextStyle(color: Colors.deepPurple),
                     hintText: 'Enter your email address',
                     hintStyle: const TextStyle(color: Colors.grey),
